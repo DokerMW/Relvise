@@ -1061,10 +1061,10 @@ iframe {
     .body-who__column:last-child {
       margin: 0px 0px 0px 0px; }
     .body-who__column:first-child .body-who__subtitle {
-      background: url(img/who/01.svg) 0 0 no-repeat;
+      background: url("img/who/01.svg") 0 0 no-repeat;
       padding: 0px 0px 0px 50px; }
     .body-who__column:last-child .body-who__subtitle {
-      background: url(img/who/02.svg) 0 0 no-repeat;
+      background: url("img/who/02.svg") 0 0 no-repeat;
       padding: 0px 0px 0px 50px; }
   .body-who__subtitle {
     font-weight: 700;
